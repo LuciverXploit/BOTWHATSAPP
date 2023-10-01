@@ -6,13 +6,12 @@
 > I am very very bored, give me a task to update or develop this bot? feature suggestions?
 
 > Piyobot Adalah Bot Whatsapp Pintar Dengan Fitur Yang Berguna Untuk Grup Maupun Pribadi Message ||
-> Nomor Pembuat Bot
-> wa.me/6281414046576
+
 
 <h3 align="center">Made with ❤️ by</h3>
 
 <p align="center">
-  <a href="https://github.com/AlvioAdjiJanuar"><img title="Author" src="https://img.shields.io/badge/Author-AlvioAdjiJanuar-darkred.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/LuciverXploit"><img title="Author" src="https://img.shields.io/badge/Author-LuciverXploit-darkred.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <p align="center">
